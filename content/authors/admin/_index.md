@@ -16,7 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: viết về cuộc dạo chơi giữa dòng tâm tư ngàn lối, vạn ngả
 
-# interests:
+interests:
 - bơi trong dòng suy tư
 - lạc vào hồi ký ức
 - chìm trong màn sương mù
