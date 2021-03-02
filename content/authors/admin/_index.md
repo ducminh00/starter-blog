@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: viết về cuộc dạo chơi giữa dòng tâm tư ngàn lối, vạn ngả.
+bio: viết về cuộc dạo chơi giữa dòng tâm tư ngàn lối, vạn ngả
 
 # interests:
 - bơi trong dòng suy tư
